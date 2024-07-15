@@ -1,5 +1,3 @@
-Voici le texte corrigé avec les informations de contact ajoutées :
-
 # Pet React Webpack Starter Kit
 
 ## English
