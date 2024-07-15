@@ -53,7 +53,3 @@ Here's the full list of features used in the project:
 - [@Zyxxie-creator](https://github.com/Zyxxie-creator)
 ##### **Telegram**
 -  [@Zyxxie](https://t.me/Zyxxie)
-
-
-Citations:
-[1] https://github.com/Zyxxie-creator
